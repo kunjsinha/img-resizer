@@ -1,7 +1,7 @@
 # CLI Image Resizer
 
 A fast, parallel image resizer that can resize images in a directory or a single image.
-This project was made to drastically decrease the size of a screenshots folder which only stored 4k images. 
+This script was made to drastically decrease the size of a screenshots folder which only stored 4k images. 
 
 ## Features
 
